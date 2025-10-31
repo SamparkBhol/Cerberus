@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+db.sqlite3-journal
+
+# ML Models
+*.joblib
+scaler.joblib
+anomaly_model.joblib
+
+# Node
+frontend/dashboard/node_modules/
+
+# VS Code
+.vscode/
